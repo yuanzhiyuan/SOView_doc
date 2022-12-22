@@ -11,16 +11,14 @@ SOView is designed for tissue visualization for general spatial omics data, the 
 .. image:: _static/soview.png
    :width: 600
 
+
+
+
+
 .. toctree::
-   :maxdepth: 1
    :caption: Contents:
-
+   
    installation/installation
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Tutorials:
-
    Examples/Examples
    Other/Other
 

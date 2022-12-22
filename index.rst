@@ -22,6 +22,7 @@ SOView is designed for tissue visualization for general spatial omics data, the 
    :caption: Tutorials:
 
    Examples/Examples
+   Other/Other
 
 
 

@@ -26,4 +26,5 @@ SOView is designed for tissue visualization for general spatial omics data, the 
 
 If you find SOView useful in your research, please consider citing:
 ========
-TBD
+
+Yuan, Z., Pan, W., Zhao, X. et al. SODB facilitates comprehensive exploration of spatial omics data. Nat Methods (2023). https://doi.org/10.1038/s41592-023-01773-7

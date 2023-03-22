@@ -4,7 +4,6 @@ Examples
 ===========================================
 
 .. toctree::
-    :maxdepth: 0
 
 
     10x Visium data<10x>

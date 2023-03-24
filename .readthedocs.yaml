@@ -13,5 +13,5 @@ python:
   install:
     - requirements: ./requirements.txt
 
-output_base: $READTHEDOCS_OUTPUT
+output_base: _build
 
